@@ -1,0 +1,71 @@
+#header .judul{
+    text-align: center;
+}
+
+.co img{
+    margin-top: 30px;
+}
+
+.judul{
+    margin-top: 80px;
+    font-style: bold;
+    font-size: 70px;
+}
+
+.ga a{
+    position: absolute;
+    width: 54px;
+    height: 54px;
+    left: 50px;
+    bottom: 300px;
+    top: 50px;
+}
+
+.row .col-6{
+    margin-top: 300px;
+}
+.row .col-6 img{
+    margin-left: 300px;
+}
+.col-6 b{
+    font-size: 70px;
+}
+.col-6 p{
+    font-size: 60px;
+    color: rgb(183, 183, 183);
+}
+.col-6 .kelas{
+    font-size: 50px;
+}
+#button{
+    padding: 20px;
+    margin: 60px;
+    border: 7px solid #000;
+    background-color: #fff;
+    border-radius: 25px;
+    width: 300px;
+    margin-left: 40px;
+    margin-right: 60px;
+    font-size: 35px;
+    cursor: pointer;
+}
+#button1{
+    width: 90%;
+    height: 90px;
+    font-size: 45px;
+    color: #fff;
+    background-color: #00ff47;
+    border-radius: 60px;
+}
+#angka{
+    width: 200px;
+}
+.col-6  .coo{
+    margin-top: 90px;
+    font-size: 50px;
+}
+.col-6 .pp{
+    font-size: 30px;
+    color: #000;
+    margin-bottom: 20px;
+}
